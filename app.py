@@ -376,7 +376,7 @@ if st.session_state.show_results and st.session_state.results_data:
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 2rem;'>
-    <p>🎬 <strong>AI Video Transcriber</strong> | Powered by OpenAI Whisper & Google Translate</p>
+    <p>🎬 <strong>AI Video Transcriber</strong> | Powered by Whisper AI & Google Translate</p>
     <p>Transform your videos into multilingual text with cutting-edge AI</p>
 </div>
 """, unsafe_allow_html=True)

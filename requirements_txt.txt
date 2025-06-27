@@ -1,5 +1,9 @@
 streamlit>=1.28.0
-openai-whisper>=20231117
+openai-whisper
 deep-translator>=1.11.4
-torch>=2.0.0
-torchaudio>=2.0.0
+torch>=2.0.0,<2.1.0
+torchaudio>=2.0.0,<2.1.0
+transformers>=4.21.0
+numpy<2.0.0
+ffmpeg-python
+setuptools-rust
